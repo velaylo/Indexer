@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Индексатор 1", "Индексатор 1\Индексатор 1.csproj", "{29EF0528-318E-4524-B00E-505A72A07069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29EF0528-318E-4524-B00E-505A72A07069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EF0528-318E-4524-B00E-505A72A07069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EF0528-318E-4524-B00E-505A72A07069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EF0528-318E-4524-B00E-505A72A07069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDA98599-7532-4056-8CFE-0CD49E0F2AA4}
+	EndGlobalSection
+EndGlobal
